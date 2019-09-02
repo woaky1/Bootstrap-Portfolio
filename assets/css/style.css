@@ -10,7 +10,7 @@
     background-image: url(../images/leaves.png);
 }
 
-#headshot {
+.photo {
     width: 200px;
     height: 200px;
 }
@@ -26,4 +26,15 @@
 
 .verticalLine {
     border-right: 1pt solid;
+}
+
+#hangman {
+    background-image: url(../images/hangman.jpg);
+    height: 200px;
+    width: 200px;
+}
+
+.imageLabel {
+    background: teal;
+    color: white;
 }

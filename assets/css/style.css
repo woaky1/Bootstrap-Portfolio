@@ -14,3 +14,12 @@
     width: 200px;
     height: 200px;
 }
+
+.textRight {
+    float: right;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+}

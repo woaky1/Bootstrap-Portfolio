@@ -1,0 +1,16 @@
+.navFloatLeft {
+    float:left;
+}
+
+.navFloatRight {
+    float: right;
+}
+
+#background {
+    background-image: url(../images/leaves.png);
+}
+
+#headshot {
+    width: 200px;
+    height: 200px;
+}

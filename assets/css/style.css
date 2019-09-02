@@ -28,13 +28,36 @@
     border-right: 1pt solid;
 }
 
-#hangman {
-    background-image: url(../images/hangman.jpg);
+.gallery-photo {
     height: 200px;
     width: 200px;
+    position: relative;
+}
+#hangman {
+    background-image: url(../images/hangman.jpg);
+}
+
+#rpg {
+    background-image: url(../images/rpg.jpg);
+}
+
+#trivia {
+    background-image: url(../images/trivia_game.jpg);
+}
+
+#widget {
+    background-image: url(../images/widget.jpg);
+}
+
+#rps {
+    background-image: url(../images/rock_paper_scissors.jpg);
 }
 
 .imageLabel {
     background: teal;
     color: white;
+    position: absolute;
+    bottom: 10px;
+    width: 200px;
+    line-height: 300%;
 }

@@ -20,8 +20,11 @@
 }
 
 .footer {
-    background-color: black;
+    background-color: #666666;
     text-align: center;
+    color: white;
+    font-size: 12px;
+    padding-bottom: 20px;
 }
 
 .verticalLine {
@@ -55,7 +58,7 @@
 }
 
 .imageLabel {
-    background: teal;
+    background: #4aaaa5;
     color: white;
     position: absolute;
     bottom: 10px;

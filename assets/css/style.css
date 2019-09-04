@@ -26,6 +26,7 @@
 
 .verticalLine {
     border-right: 1pt solid;
+    border-color: lightgray;
 }
 
 .gallery-photo {

@@ -69,3 +69,26 @@
 textarea {
     resize: none
 };
+
+#aboutMeText{
+    color: #4aaaa5;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+#nameBox {
+    background: #4aaaa5;
+    color: white;
+    margin-left: 20px;
+    padding: 10px 20px;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.nav-item {
+    margin-left: 7px;
+}
